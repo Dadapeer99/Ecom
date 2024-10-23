@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ecom/static/css/main.8f16b597.css",
+    "main.js": "/Ecom/static/js/main.0eaa2e90.js",
+    "static/media/product2.jpg": "/Ecom/static/media/product2.649e01f033f695bd0112.jpg",
+    "index.html": "/Ecom/index.html",
+    "main.8f16b597.css.map": "/Ecom/static/css/main.8f16b597.css.map",
+    "main.0eaa2e90.js.map": "/Ecom/static/js/main.0eaa2e90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f16b597.css",
+    "static/js/main.0eaa2e90.js"
+  ]
+}
